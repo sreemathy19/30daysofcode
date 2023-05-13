@@ -1,5 +1,9 @@
 # 30daysofcode
 
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
+
 LIST OF PROBLEMS:
 | DAY | TOPIC |
 DAY 0 : HELLO-WORLD
