@@ -1,4 +1,4 @@
-//PROBLEM - MORE LINKED LIST ()
+//PROBLEM - MORE LINKED LIST (https://www.hackerrank.com/challenges/30-linked-list-deletion)
 import java.io.*;
 import java.util.*;
 class Node{
